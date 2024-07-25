@@ -26,7 +26,7 @@ class EchoLayer(YowInterfaceLayer):
                 print(f"Deleted a message with a link from {sender}")
 
 if __name__ == "__main__":
-    credentials = ("your_phone_number", "your_password")  # Replace with your phone number and password
+    credentials = ("+94702490487", "OF@ThemiyA@2004@DilaN)  # Replace with your phone number and password
     stackBuilder = YowStackBuilder()
 
     stack = stackBuilder\
